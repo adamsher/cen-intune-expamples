@@ -1,1 +1,1 @@
-# cen-intune-expamples
+# Example Intune scripts for CEN 2021
